@@ -1,0 +1,23 @@
+.App {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.country-list {
+  margin-top: 20px;
+}
+
+.country-list button {
+  margin-bottom: 5px;
+}
+
+.country-details {
+  margin-top: 20px;
+}
+
+.weather-report {
+  margin-top: 20px;
+}
+

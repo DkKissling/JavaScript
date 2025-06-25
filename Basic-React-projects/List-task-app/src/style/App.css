@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+  transition: background-color 0.5s, color 0.5s;
+}
+
+.light {
+  background-color: white;
+  color: black;
+}
+
+button:hover{
+  background-color: gray;
+}
+
+.dark {
+  background-color: black;
+  color: white;
+}
+
+.dark .Profile_dropdown {  
+  background-color: gray;
+  color: black;
+}
+
+.light .Profile_dropdown{
+  background-color: rgb(224, 221, 221);
+  color: white;
+}
+
+.dark .selector{
+  background-color: gray;
+  color: white;
+
+}
+.light .selector{
+  background-color: rgb(224, 221, 221);
+  color: black;
+
+}
+
+.text-shadow {
+  text-shadow: 0 0 0.2em #8F7;
+}

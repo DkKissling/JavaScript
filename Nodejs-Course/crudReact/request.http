@@ -1,0 +1,33 @@
+
+###
+GET http://localhost:3000/api HTTP/1.1
+
+
+
+####
+
+POST http://localhost:3000/api HTTP/1.1
+Content-Type: application/json
+
+{
+  "title":"los 7 caballos",
+  "author": "Daniel Kissling",
+  "edition": 6
+}
+
+###
+
+DELETE  http://localhost:3000/api/2 HTTP/1.1
+Content-Type: application/json
+
+
+###
+PUT  http://localhost:3000/api/3 HTTP/1.1
+Content-Type: application/json
+
+{
+  "title":"los 7 caballos de troya",
+  "author": "Daniel gomez",
+  "edition": 5
+}
+

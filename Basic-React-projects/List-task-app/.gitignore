@@ -1,0 +1,39 @@
+# Dependencias y directorios generados
+node_modules/
+build/
+dist/
+.cache/
+coverage/
+
+# Archivos sensibles
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Logs y archivos temporales
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+*.log
+
+# Ficheros de sistema
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Carpetas de caché
+.cached/
+.cache-loader/
+.cache/
+
+# Archivos generados por editores y entornos de desarrollo
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

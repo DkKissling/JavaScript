@@ -1,0 +1,46 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "content": "HTML is easy"
+    },
+    {
+      "id": 2,
+      "content": "Browser can execute only JavaScript"
+    },
+    {
+      "id": 3,
+      "content": "GET and POST are the most important methods of HTTP protocol"
+    },
+    {
+      "content": "hgjhgnhgjhhgjhg",
+      "id": 4
+    },
+    {
+      "content": "lslaudlaskdjlaskdj",
+      "id": 5
+    }
+  ],
+  "persons": [
+    {
+      "id": 1,
+      "name": "Matti Luukkainen",
+      "number": "040-12344565"
+    },
+    {
+      "id": 2,
+      "name": "Tarja Halonen",
+      "number": "040-2223334"
+    },
+    {
+      "name": "alsjdaskljdlaksjd",
+      "number": "13212312893791283",
+      "id": 3
+    },
+    {
+      "name": "lkkjaxdkljasd",
+      "number": "123123123123",
+      "id": 4
+    }
+  ]
+}

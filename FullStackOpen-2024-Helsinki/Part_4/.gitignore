@@ -1,0 +1,19 @@
+# Ignorar directorio node_modules generado por npm
+node_modules/
+
+# Ignorar el archivo de configuración de dependencias
+package-lock.json
+
+# Ignorar archivos de configuración de entorno específicos
+.env
+
+# Ignorar archivos generados por jest
+coverage/
+
+# Ignorar archivos de registro
+*.log
+
+# Ignorar archivos de configuración específicos de IDEs
+.vscode/
+.idea/
+

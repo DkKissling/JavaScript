@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "user1",
+      "name": "User One",
+      "password": "password1"
+    },
+    {
+      "id": 2,
+      "username": "user2",
+      "name": "User Two",
+      "password": "password2"
+    }
+  ],
+  "blogs": [
+    {
+      "id": 1,
+      "title": "First Blog Post",
+      "author": "User One",
+      "url": "https://example.com/blog1",
+      "likes": 7,
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "title": "Second Blog Post",
+      "author": "User Two",
+      "url": "https://example.com/blog2",
+      "likes": 3,
+      "userId": 2
+    },
+    {
+      "title": "tercer blog",
+      "author": "user 1 ",
+      "url": "https://example.com/blog3",
+      "likes": 0,
+      "userId": 1,
+      "id": 3
+    }
+  ]
+}
